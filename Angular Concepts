@@ -1,1 +1,12 @@
-this is testing git
+Component- 
+Decorator- 
+Directives-
+Data Binding- 
+String Interpolation- 
+Property Binding
+
+Selector- 
+TemplateUrl-
+StyleUrls-
+
+app.module.ts- stores the all the components, and properties. 
