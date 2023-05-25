@@ -1,6 +1,6 @@
-Component- 
-Decorator- 
-Directives-
+Component- Components are the most basic UI building block of an Angular app.
+Decorator- Decorators are a design pattern that is used to separate modification or decoration of a class without modifying the original source code.
+Directives- Directives are classes that add additional behavior to elements in your Angular applications.
 Data Binding- 
 String Interpolation- 
 Property Binding
