@@ -3,7 +3,8 @@
     <div class="panel-body">
         <p>
             <strong *ngIf="element.type === 'server'" style="color: red">{{element.content}}</strong>
-            <em *ngIf="element.type === 'bluepring'">{{element.content}}</em>
+            <strong *ngIf="element.type === 'blueprint'" style="color: blue">{{element.content}}</strong>
         </p>
+        <hr>
     </div>
 </div>

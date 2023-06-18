@@ -1,0 +1,11 @@
+.intro{
+    color: rgb(152, 15, 206);
+    font-size: large;
+}
+.form-control{
+    margin: 4px;
+}
+
+.btn{
+    margin: 2px;
+}
