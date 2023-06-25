@@ -1,0 +1,20 @@
+1.  Component- It is the bulding blocks that compose an applications. It includes a TypeScript class with a 
+    @Component() decorator, an HTML template, and styles URL. 
+    
+    Syntax:
+        @Component({
+            selector: "selector-name",
+            templateUrl: "",
+            styleUrl: ""
+
+        })
+
+2.  String Interpolation- It is a one-way databinding technique which is used to output the data from a TypeScript
+    code to HTML view.  {{ }}
+
+3.  Property Binding- It helps you to set values for properties of HTML elements or directives. []
+
+4.  Event Binding ()-
+
+5.  Directives: It is defined as classes that can add new behavior to the elements in the template or modify
+    existing behavior. Popular Directives: *ngIf and *ngFor.
